@@ -3,13 +3,13 @@ This code implements machine learning models to predict crop yields based on agr
 
 Features in the dataset may include:
 
-Crop: The type of crop being cultivated.
-Crop_Year: The year in which the crop was harvested.
-Season: The season during which the crop was cultivated (e.g., Kharif, Rabi, Whole Year).
-State: The state where the crop was grown.
-Area: The area of land used for cultivating the crop. (In Hectares)
-Production: The quantity of crop produced. (In metric tons)
-Annual_Rainfall: The annual rainfall in the region where the crop was cultivated. (In mm)
-Fertilizer: The amount of fertilizer used in cultivation. (In Kgs)
-Pesticide: The amount of pesticide used in cultivation. (In Kgs)
-Yield: The yield of the crop. (Production per unit area)
+- Crop: The type of crop being cultivated.
+- Crop_Year: The year in which the crop was harvested.
+- Season: The season during which the crop was cultivated (e.g., Kharif, Rabi, Whole Year).
+- State: The state where the crop was grown.
+- Area: The area of land used for cultivating the crop. (In Hectares)
+- Production: The quantity of crop produced. (In metric tons)
+- Annual_Rainfall: The annual rainfall in the region where the crop was cultivated. (In mm)
+- Fertilizer: The amount of fertilizer used in cultivation. (In Kgs)
+- Pesticide: The amount of pesticide used in cultivation. (In Kgs)
+= Yield: The yield of the crop. (Production per unit area)
